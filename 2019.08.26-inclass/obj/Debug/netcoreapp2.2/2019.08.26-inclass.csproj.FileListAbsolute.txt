@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\bin\Debug\netcoreapp2.2\2019.08.26-inclass.deps.json
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\bin\Debug\netcoreapp2.2\2019.08.26-inclass.runtimeconfig.json
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\bin\Debug\netcoreapp2.2\2019.08.26-inclass.runtimeconfig.dev.json
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\bin\Debug\netcoreapp2.2\2019.08.26-inclass.dll
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\bin\Debug\netcoreapp2.2\2019.08.26-inclass.pdb
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.csprojAssemblyReference.cache
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.AssemblyInfo.cs
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.dll
+C:\Users\test\source\repos\2019.08.26-inclass\2019.08.26-inclass\obj\Debug\netcoreapp2.2\2019.08.26-inclass.pdb
